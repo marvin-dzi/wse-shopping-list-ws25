@@ -1,2 +1,5 @@
 beer
 lebakaaas
+chips
+wurst
+kaese
