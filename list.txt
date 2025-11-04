@@ -9,3 +9,4 @@ gurkerl
 paprika
 salat
 nutella
+bananen
