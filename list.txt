@@ -12,3 +12,4 @@ nutella
 bananen
 erdaepfel
 wein
+cashews
